@@ -1,16 +1,34 @@
+'use strict';
+
 const express = require('express');
-const app = express();
-const PORT = 3000;
+const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
+const Constants = require('./utils/Constants');
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
+// Connect to DB before starting the Server
+mongoose.connect(Constants.MONGOOSE_URI, Constants.MONGOOSE_OPTIONS)
+	.then(() => {
+		console.log('Connected to DB successfully!!!');
 
-app.listen(PORT, () => {
-  console.log(`Example app listening at http://localhost:${PORT}`)
-})
+		// Register MongoDB Schema for URL entity
+		require('./models/UrlEntity');
 
-// https://codeburst.io/creating-custom-url-shortener-with-nodejs-de10bbbb89c7
-// https://expressjs.com/en/starter/generator.html
-// https://cloud.mongodb.com/v2/5fd05ab9962dfe326838326f#clusters
-// https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+		const app = express();
+
+		// Setup Middleware Handler
+		app.use(bodyParser.json());
+
+		// Setup Routes
+		const RouteAPIs = require('./apis/api');
+		app.use(RouteAPIs);
+
+		// Start listening to HTTP Request
+		app.listen(Constants.PORT, () => {
+			console.log(`Server listening at http://localhost:${Constants.PORT}`)
+		});
+
+	})
+	.catch(err => {
+		console.log('Error while connecting with DB!!!', err);
+	});
+
