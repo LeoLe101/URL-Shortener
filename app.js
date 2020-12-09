@@ -15,12 +15,16 @@ mongoose.connect(Constants.MONGOOSE_URI, Constants.MONGOOSE_OPTIONS)
 
 		const app = express();
 
-		// Setup Middleware Handler
-		app.use(bodyParser.json());
+		// Setup Middleware Handler and Routes
+		app.use(express.json());
 
-		// Setup Routes
-		const RouteAPIs = require('./apis/api');
-		app.use(RouteAPIs);
+		const RouteAPIs = require('./apis/UrlRoutes');
+		app.use('/api', RouteAPIs);
+		// '/' - Home Page
+		app.get('/', async (req, res) => {
+			console.log('Home Page called');
+			res.send('From Seattle with Luv!!!');
+		});
 
 		// Start listening to HTTP Request
 		app.listen(Constants.PORT, () => {

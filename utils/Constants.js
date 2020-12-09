@@ -1,8 +1,8 @@
 
 const MONGOOSE_URI = 'mongodb://localhost';
-const NOT_FOUND = 'http://localhost:3000/not-found';
+const NOT_FOUND = 'http://localhost:3000/api/not-found';
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const MONGOOSE_OPTIONS = {
     useNewUrlParser: true,

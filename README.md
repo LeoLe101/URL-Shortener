@@ -1,3 +1,22 @@
+Question 2:
+
+# Random Data API Generator (simulate 1 mil requests)
+- https://random-data-api.com/documentation
+
+
+Question 3:
+
+# APIs
+- GET  /
+- GET  /api/url
+- POST /api/url
+- GET  /api/not-found
+
+
+
+
+
+
 #Reference Articles:
 
 Connecting Express, NodeJS, and Mongoose
@@ -8,3 +27,7 @@ Connecting Express, NodeJS, and Mongoose
 // https://expressjs.com/en/starter/generator.html
 // https://cloud.mongodb.com/v2/5fd05ab9962dfe326838326f#clusters
 // https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+NPM:
+- https://www.npmjs.com/package/nanoid
+

@@ -1,0 +1,902 @@
+[
+    {
+        "id": 5535,
+        "uid": "924639b2-6305-46a2-9c82-53679ebcbb8c",
+        "blend_name": "Goodbye Mug",
+        "origin": "Rulindo, Rwanda",
+        "variety": "Geisha",
+        "notes": "clean, smooth, tobacco, golden raisin, black pepper",
+        "intensifier": "soft"
+    },
+    {
+        "id": 5517,
+        "uid": "99f17280-2b8a-4f73-b48c-39223fc92c48",
+        "blend_name": "Green Choice",
+        "origin": "Hirazi, Yemen",
+        "variety": "Catimors",
+        "notes": "unbalanced, juicy, snow pea, raspberry, jasmine",
+        "intensifier": "muted"
+    },
+    {
+        "id": 8598,
+        "uid": "198a2a68-55d7-4d56-959d-333713e68af7",
+        "blend_name": "Red Cup",
+        "origin": "Ojimmah, Ethiopia",
+        "variety": "Colombia",
+        "notes": "rounded, silky, toast, nutmeg, sage",
+        "intensifier": "juicy"
+    },
+    {
+        "id": 255,
+        "uid": "6ec55625-82d0-43c1-8e5f-a054512064da",
+        "blend_name": "Thanksgiving Town",
+        "origin": "Embu, Kenya",
+        "variety": "Agaro",
+        "notes": "structured, slick, dates, green apple, walnut",
+        "intensifier": "muted"
+    },
+    {
+        "id": 9691,
+        "uid": "b4e7b89a-c3e5-4ea9-b8cf-0149f5e712d5",
+        "blend_name": "Captain's Equinox",
+        "origin": "Lake Tawar, Sumatra",
+        "variety": "Gimma",
+        "notes": "mild, creamy, lychee, corriander, orange blossom",
+        "intensifier": "pointed"
+    },
+    {
+        "id": 4195,
+        "uid": "965346e9-ca37-47ac-a908-dcc8cb50a60b",
+        "blend_name": "Street Star",
+        "origin": "Gayo, Sumatra",
+        "variety": "Typica",
+        "notes": "tart, syrupy, nougat, leathery, carmel",
+        "intensifier": "quick"
+    },
+    {
+        "id": 8573,
+        "uid": "a81a589f-caeb-4024-98ca-912a50b6998d",
+        "blend_name": "Cascara Breaker",
+        "origin": "Western Region, Kigoma, Tanzania",
+        "variety": "Geisha",
+        "notes": "deep, smooth, barley, magnolia, strawberry",
+        "intensifier": "pointed"
+    },
+    {
+        "id": 5113,
+        "uid": "2a955b8d-0f8c-4e67-a590-2605624a9f85",
+        "blend_name": "Morning Bean",
+        "origin": "Acatenango, Guatemala",
+        "variety": "Mokka",
+        "notes": "crisp, silky, olive, star fruit, molasses",
+        "intensifier": "faint"
+    },
+    {
+        "id": 1978,
+        "uid": "c5a2c328-73bf-42f5-8801-938d02d67931",
+        "blend_name": "Morning Equinox",
+        "origin": "Gishamwana Coffee Island, Rwanda",
+        "variety": "SL34",
+        "notes": "clean, big, wheat, cream, star fruit",
+        "intensifier": "juicy"
+    },
+    {
+        "id": 9376,
+        "uid": "899aff92-fcb3-4afd-8a4c-2acbc31c70f7",
+        "blend_name": "Thanksgiving Cake",
+        "origin": "Embu, Kenya",
+        "variety": "Catuai",
+        "notes": "juicy, big, nougat, star fruit, mango",
+        "intensifier": "dense"
+    },
+    {
+        "id": 9935,
+        "uid": "adfce6ee-849b-42b0-b6cd-ab8e55641578",
+        "blend_name": "Postmodern Cowboy",
+        "origin": "Chiriqui, Panama",
+        "variety": "Bourbon",
+        "notes": "delicate, round, soil, leathery, red grape",
+        "intensifier": "soft"
+    },
+    {
+        "id": 9099,
+        "uid": "783bae4d-c269-4c51-9668-7348bf3398e2",
+        "blend_name": "Morning Treat",
+        "origin": "Granada, Nicaragua",
+        "variety": "Kaffa",
+        "notes": "dry, full, orange, mango, watermelon",
+        "intensifier": "complex"
+    },
+    {
+        "id": 1407,
+        "uid": "230db19f-fd78-4042-9893-2ac6c56a3363",
+        "blend_name": "The Treat",
+        "origin": "Jalisco, Mexico",
+        "variety": "Gimma",
+        "notes": "rounded, creamy, rose hips, rose hips, curry",
+        "intensifier": "soft"
+    },
+    {
+        "id": 9821,
+        "uid": "60993c54-5c22-4af9-a83e-9af50314403e",
+        "blend_name": "Thanksgiving Nuts",
+        "origin": "Aceh, Sumatra",
+        "variety": "Bourbon",
+        "notes": "astringent, big, fresh wood, tamarind, green-tea",
+        "intensifier": "wild"
+    },
+    {
+        "id": 227,
+        "uid": "7904a905-9ee7-4a25-b80b-59e5e3b1d823",
+        "blend_name": "Major Equinox",
+        "origin": "Kayanza, Burundi",
+        "variety": "Caturra",
+        "notes": "deep, velvety, smokey, magnolia, bittersweet chocolate",
+        "intensifier": "soft"
+    },
+    {
+        "id": 2534,
+        "uid": "c4a709a9-1281-4067-9e94-078285ad9236",
+        "blend_name": "Veranda Enlightenment",
+        "origin": "Sidama, Ethiopia",
+        "variety": "Kaffa",
+        "notes": "vibrant, big, banana, burnt sugar, orange creamsicle",
+        "intensifier": "quick"
+    },
+    {
+        "id": 9776,
+        "uid": "bb338f31-0782-4a36-bdc3-04dd80a2b8ee",
+        "blend_name": "Dark Extract",
+        "origin": "Raimi, Yemen",
+        "variety": "Kent",
+        "notes": "dry, syrupy, molasses, wheat, peach",
+        "intensifier": "crisp"
+    },
+    {
+        "id": 6311,
+        "uid": "b18cc395-4039-425d-b305-64f43ffbd36c",
+        "blend_name": "Split Cup",
+        "origin": "Volcan, Panama",
+        "variety": "Sumatara",
+        "notes": "pointed, velvety, black currant, orange, medicinal",
+        "intensifier": "sharp"
+    },
+    {
+        "id": 9374,
+        "uid": "ad3a6c4c-df37-4a43-b0bc-31d7752cd029",
+        "blend_name": "The Coffee",
+        "origin": "Kibale, Uganda",
+        "variety": "Barbuk Sudan",
+        "notes": "sharp, syrupy, hay, nougat, dill",
+        "intensifier": "dirty"
+    },
+    {
+        "id": 2840,
+        "uid": "f885e6bb-945d-4264-98db-f09e7c3fbff5",
+        "blend_name": "Heart Cake",
+        "origin": "Coban, Guatemala",
+        "variety": "Typica",
+        "notes": "delicate, silky, black-tea, red apple, apricot",
+        "intensifier": "complex"
+    },
+    {
+        "id": 9463,
+        "uid": "7f84ab90-8f90-4cd5-ad37-5966acc2cc4f",
+        "blend_name": "Evening Java",
+        "origin": "Sidama, Ethiopia",
+        "variety": "Pink Bourbon",
+        "notes": "dense, syrupy, bergamot, figs, marzipan",
+        "intensifier": "astringent"
+    },
+    {
+        "id": 5282,
+        "uid": "1f51e7a2-56b2-4cef-ae97-0bf036b0d887",
+        "blend_name": "Winter Nuts",
+        "origin": "Rivas, Nicaragua",
+        "variety": "Catimors",
+        "notes": "pointed, juicy, raisin, peach, nectarine",
+        "intensifier": "mild"
+    },
+    {
+        "id": 7236,
+        "uid": "713e5e34-8491-48d8-9782-b764ceceac71",
+        "blend_name": "Holiday Volcano",
+        "origin": "Tapanuli, Sumatra",
+        "variety": "Kona",
+        "notes": "dirty, silky, cola, pecan, baggy",
+        "intensifier": "muted"
+    },
+    {
+        "id": 2757,
+        "uid": "aeee3b6c-2c1c-4af5-a32b-fa3f1be7395c",
+        "blend_name": "Summer Treat",
+        "origin": "Chiriqui, Panama",
+        "variety": "Blue Mountain",
+        "notes": "vibrant, syrupy, orange, jasmine, mandarin",
+        "intensifier": "muted"
+    },
+    {
+        "id": 9794,
+        "uid": "0b7b4c9a-8671-48cf-a353-586a472c3a7e",
+        "blend_name": "Café Coffee",
+        "origin": "Acatenango, Guatemala",
+        "variety": "SL28",
+        "notes": "dry, smooth, orange creamsicle, papaya, black-tea",
+        "intensifier": "vibrant"
+    },
+    {
+        "id": 5523,
+        "uid": "867c2312-d380-456d-adae-240503a23a8d",
+        "blend_name": "Goodbye America",
+        "origin": "Southern Region, Morogoro, Tanzania",
+        "variety": "Barbuk Sudan",
+        "notes": "balanced, creamy, medicinal, nougat, black-tea",
+        "intensifier": "muted"
+    },
+    {
+        "id": 8088,
+        "uid": "93aa78f2-6283-44b9-af17-79536eeea02e",
+        "blend_name": "Blue Volcano",
+        "origin": "Lintong, Sumatra",
+        "variety": "SL28",
+        "notes": "lingering, full, lemonade, leafy greens, olive",
+        "intensifier": "balanced"
+    },
+    {
+        "id": 8638,
+        "uid": "37ce7760-b1ed-4b5b-bb14-b15b98c7adb5",
+        "blend_name": "Heart Forrester",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Mundo Novo",
+        "notes": "dense, juicy, cacao nibs, almond, green-tea",
+        "intensifier": "dense"
+    },
+    {
+        "id": 8507,
+        "uid": "ebf2281a-6758-4d41-a8cf-8464813bc0d8",
+        "blend_name": "Split Bean",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Ethiopian Heirloom",
+        "notes": "dirty, syrupy, grapefruit, leafy greens, watermelon",
+        "intensifier": "rounded"
+    },
+    {
+        "id": 58,
+        "uid": "0efb72ad-b63d-429d-91d0-be219ba7ffd9",
+        "blend_name": "Huggy Look",
+        "origin": "Lake Kivu Region, Rwanda",
+        "variety": "Kona",
+        "notes": "dense, full, meyer lemon, orange creamsicle, concord grape",
+        "intensifier": "dry"
+    },
+    {
+        "id": 4489,
+        "uid": "e127aa80-d91c-442f-a96c-5fe51865f098",
+        "blend_name": "Major Delight",
+        "origin": "Southern Region, Mbinga, Tanzania",
+        "variety": "S795",
+        "notes": "unbalanced, smooth, figs, medicinal, walnut",
+        "intensifier": "mild"
+    },
+    {
+        "id": 7550,
+        "uid": "4cab766d-5dd3-4fd4-a78a-12431d70f7ee",
+        "blend_name": "Evening Nuts",
+        "origin": "San Luis Potosi, Mexico",
+        "variety": "Pacas",
+        "notes": "mild, coating, lychee, watermelon, lemonade",
+        "intensifier": "mild"
+    },
+    {
+        "id": 1565,
+        "uid": "c61ee010-e1d5-46e5-bfc4-a3ed94d6de5e",
+        "blend_name": "Kreb-Full-o Level",
+        "origin": "Kibale, Uganda",
+        "variety": "Java",
+        "notes": "vibrant, chewy, soy sauce, soy sauce, sweet pea",
+        "intensifier": "muted"
+    },
+    {
+        "id": 4866,
+        "uid": "d464f579-2ad5-4143-ae0f-b6c2bc3c8a6e",
+        "blend_name": "Hello Solstice",
+        "origin": "Kibale, Uganda",
+        "variety": "SL34",
+        "notes": "wild, slick, sundried tomato, prune, white grape",
+        "intensifier": "deep"
+    },
+    {
+        "id": 1697,
+        "uid": "9f567bac-1cee-4738-8544-556e6770fe26",
+        "blend_name": "Wake-up Town",
+        "origin": "Tapanuli, Sumatra",
+        "variety": "S288",
+        "notes": "rounded, full, leathery, marzipan, vanilla",
+        "intensifier": "soft"
+    },
+    {
+        "id": 9186,
+        "uid": "66729fca-cf59-4554-af30-54011a5d0901",
+        "blend_name": "Goodbye Select",
+        "origin": "Volcan, Panama",
+        "variety": "Mokka",
+        "notes": "dirty, smooth, raisin, smokey, blueberry",
+        "intensifier": "dry"
+    },
+    {
+        "id": 2245,
+        "uid": "7e96d0a4-a4e7-4add-a941-c94b8d4cff9c",
+        "blend_name": "Wake-up Cake",
+        "origin": "Aceh, Sumatra",
+        "variety": "S288",
+        "notes": "sharp, juicy, green-tea, white grape, smokey",
+        "intensifier": "deep"
+    },
+    {
+        "id": 6979,
+        "uid": "7bbe8520-3a25-4e12-a820-5599c6654ac4",
+        "blend_name": "KrebStar Solstice",
+        "origin": "Southern Region, Mbinga, Tanzania",
+        "variety": "Typica",
+        "notes": "dense, watery, corriander, golden raisin, mango",
+        "intensifier": "bright"
+    },
+    {
+        "id": 9685,
+        "uid": "28aea768-55d4-4e0e-840a-58f49dbc5285",
+        "blend_name": "Postmodern Bean",
+        "origin": "Fraijanes, Guatemala",
+        "variety": "S288",
+        "notes": "vibrant, tea-like, peanut, walnut, medicinal",
+        "intensifier": "vibrant"
+    },
+    {
+        "id": 5597,
+        "uid": "a7518881-fc0f-4049-b521-23c8dd176b71",
+        "blend_name": "Captain's Solstice",
+        "origin": "Tarrazu, Costa Rica",
+        "variety": "Java",
+        "notes": "rounded, full, potato defect!, maple syrup, carmel",
+        "intensifier": "unbalanced"
+    },
+    {
+        "id": 5482,
+        "uid": "da741b11-4b30-49d4-a16e-1b8e020c0588",
+        "blend_name": "Hello Light",
+        "origin": "Kayanza, Burundi",
+        "variety": "Red Bourbon",
+        "notes": "juicy, silky, green-tea, hops, vanilla",
+        "intensifier": "structured"
+    },
+    {
+        "id": 637,
+        "uid": "34f7f061-c2db-468c-9788-3a141540d8b9",
+        "blend_name": "Hello Bean",
+        "origin": "Thika, Kenya",
+        "variety": "Red Bourbon",
+        "notes": "soft, smooth, milk chocolate, almond, banana",
+        "intensifier": "rounded"
+    },
+    {
+        "id": 7355,
+        "uid": "d8d0df6c-5f6e-4344-b11c-5f88c1705b1a",
+        "blend_name": "American Select",
+        "origin": "Acatenango, Guatemala",
+        "variety": "Gimma",
+        "notes": "dry, big, green-tea, hay, wheat",
+        "intensifier": "structured"
+    },
+    {
+        "id": 9261,
+        "uid": "2846050c-b002-44cb-a811-64b4f2a3aa5a",
+        "blend_name": "Postmodern Solstice",
+        "origin": "Fraijanes, Guatemala",
+        "variety": "Ennarea",
+        "notes": "structured, creamy, red apple, rose hips, cocoa powder",
+        "intensifier": "dirty"
+    },
+    {
+        "id": 937,
+        "uid": "c9759a2a-1b27-44ec-85c5-ca73d8029a5b",
+        "blend_name": "Summer Choice",
+        "origin": "Lake Tawar, Sumatra",
+        "variety": "Blue Mountain",
+        "notes": "crisp, chewy, honey, molasses, jasmine",
+        "intensifier": "juicy"
+    },
+    {
+        "id": 1454,
+        "uid": "a284dc66-f36c-494d-9edc-dee4396aa8c4",
+        "blend_name": "Blue Solstice",
+        "origin": "Western Region, Kigoma, Tanzania",
+        "variety": "S288",
+        "notes": "complex, smooth, rye, apricot, vanilla",
+        "intensifier": "clean"
+    },
+    {
+        "id": 575,
+        "uid": "9c7561da-ba4b-4b31-a96c-cda26e56e326",
+        "blend_name": "Thanksgiving Select",
+        "origin": "Lake Tawar, Sumatra",
+        "variety": "Villalobos",
+        "notes": "soft, syrupy, meyer lemon, lime, kiwi",
+        "intensifier": "faint"
+    },
+    {
+        "id": 3669,
+        "uid": "791b19b3-c1f9-49fb-8922-8ba547577163",
+        "blend_name": "Melty Breaker",
+        "origin": "Kibale, Uganda",
+        "variety": "Typica",
+        "notes": "pointed, tea-like, leafy greens, honey, meyer lemon",
+        "intensifier": "unbalanced"
+    },
+    {
+        "id": 445,
+        "uid": "5f98e739-9ddd-4306-889e-734f2f2eb857",
+        "blend_name": "Winter Utopia",
+        "origin": "Cundinamarca, Colombia",
+        "variety": "Ethiopian Heirloom",
+        "notes": "juicy, big, fresh wood, prune, almond",
+        "intensifier": "faint"
+    },
+    {
+        "id": 1570,
+        "uid": "bdbc671c-1130-4daa-8a4f-4c74d6a7c4ae",
+        "blend_name": "Heart Look",
+        "origin": "Coban, Guatemala",
+        "variety": "Catuai",
+        "notes": "astringent, tea-like, olive, corriander, raspberry",
+        "intensifier": "astringent"
+    },
+    {
+        "id": 3945,
+        "uid": "272ce8a2-3111-4a77-8215-7ee857a31178",
+        "blend_name": "Spilt Mug",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Tafari-Kela",
+        "notes": "mild, full, star fruit, fresh wood, papaya",
+        "intensifier": "faint"
+    },
+    {
+        "id": 3399,
+        "uid": "354f8d1e-117d-4f38-b262-6ccd82b9bffa",
+        "blend_name": "Joe Delight",
+        "origin": "Matagalpa, Nicaragua",
+        "variety": "Pink Bourbon",
+        "notes": "bright, tea-like, barley, musty, black-tea",
+        "intensifier": "soft"
+    },
+    {
+        "id": 9868,
+        "uid": "6b031007-a01d-48d2-8bcf-7997a8316284",
+        "blend_name": "Dark Blend",
+        "origin": "Turrialba, Costa Rica",
+        "variety": "Villa Sarchi",
+        "notes": "rounded, coating, green pepper, hazelnut, watermelon",
+        "intensifier": "faint"
+    },
+    {
+        "id": 5202,
+        "uid": "cdab5661-88e9-41f5-a482-ab4ab932f1d2",
+        "blend_name": "KrebStar Bean",
+        "origin": "Comayagua, Honduras",
+        "variety": "Mokka",
+        "notes": "rounded, syrupy, red apple, peach, vanilla",
+        "intensifier": "soft"
+    },
+    {
+        "id": 4938,
+        "uid": "998a3ed8-4ba3-457e-ba68-a052c5502904",
+        "blend_name": "Red Delight",
+        "origin": "Western Region, Bukova, Tanzania",
+        "variety": "Obata",
+        "notes": "deep, big, cacao nibs, figs, mint",
+        "intensifier": "clean"
+    },
+    {
+        "id": 6320,
+        "uid": "11eb4742-4209-49b1-8508-5a9c5864a6e4",
+        "blend_name": "Hello Choice",
+        "origin": "Sidama, Ethiopia",
+        "variety": "Kaffa",
+        "notes": "soft, round, grapefruit, cream, ginger",
+        "intensifier": "balanced"
+    },
+    {
+        "id": 5984,
+        "uid": "7eb58e16-dbe3-4677-8703-3f215cfc0c91",
+        "blend_name": "Strong Treat",
+        "origin": "Tarrazu, Costa Rica",
+        "variety": "Catuai",
+        "notes": "tart, creamy, barley, maple syrup, granola",
+        "intensifier": "complex"
+    },
+    {
+        "id": 9109,
+        "uid": "6cdf5699-ce32-483a-99bb-a1df492f0cc0",
+        "blend_name": "Postmodern Been",
+        "origin": "Limu, Ethiopia",
+        "variety": "Geisha",
+        "notes": "tart, silky, plum, carmel, maple syrup",
+        "intensifier": "dirty"
+    },
+    {
+        "id": 3031,
+        "uid": "c93a4ce9-5e05-4206-b608-38d14f78160f",
+        "blend_name": "Green Java",
+        "origin": "Rulindo, Rwanda",
+        "variety": "Catuai",
+        "notes": "juicy, chewy, green pepper, peach, leathery",
+        "intensifier": "muted"
+    },
+    {
+        "id": 6550,
+        "uid": "ed093d2d-22b8-47f7-baaf-243a4f68dfb4",
+        "blend_name": "Express Select",
+        "origin": "Northern Region, Kilimanjaro, Tanzania",
+        "variety": "S288",
+        "notes": "vibrant, coating, tobacco, quakery, cocoa powder",
+        "intensifier": "balanced"
+    },
+    {
+        "id": 248,
+        "uid": "0f24c187-b9ce-4176-a5b4-5d474fe5cd8e",
+        "blend_name": "Street Town",
+        "origin": "Mbeya Region, Tanzania",
+        "variety": "Catimors",
+        "notes": "lingering, slick, prune, red apple, cedar",
+        "intensifier": "crisp"
+    },
+    {
+        "id": 5321,
+        "uid": "6743da8e-7f3c-40c2-a6ec-bdf36402946a",
+        "blend_name": "Hello Pie",
+        "origin": "Gayo, Sumatra",
+        "variety": "Catuai",
+        "notes": "complex, tea-like, vanilla, black pepper, quakery",
+        "intensifier": "balanced"
+    },
+    {
+        "id": 7358,
+        "uid": "1aaa92e2-3bee-48aa-b79b-0aa97da3927d",
+        "blend_name": "Green Bean",
+        "origin": "Chiapas, Mexico",
+        "variety": "Kent",
+        "notes": "muted, big, leathery, black cherry, almond",
+        "intensifier": "bright"
+    },
+    {
+        "id": 1568,
+        "uid": "3b6c355f-b98a-4863-a5fb-d98cc6fd38f4",
+        "blend_name": "Strong Town",
+        "origin": "Limu, Ethiopia",
+        "variety": "S.4",
+        "notes": "mild, chewy, clove, star fruit, nutella",
+        "intensifier": "soft"
+    },
+    {
+        "id": 6485,
+        "uid": "0f2db508-4eae-4362-b81b-027085a0da47",
+        "blend_name": "Wake-up Blend",
+        "origin": "Western Region, Tarime, Tanzania",
+        "variety": "Dilla",
+        "notes": "structured, tea-like, cinnamon, black currant, meyer lemon",
+        "intensifier": "faint"
+    },
+    {
+        "id": 9038,
+        "uid": "160c1d76-8cd8-426d-b2b3-6e3598c6c599",
+        "blend_name": "Street Mug",
+        "origin": "Acatenango, Guatemala",
+        "variety": "Ethiopian Heirloom",
+        "notes": "rounded, velvety, ginger, nutella, peach",
+        "intensifier": "dull"
+    },
+    {
+        "id": 9336,
+        "uid": "5801f88b-99c4-43b6-8125-fb7793bc15f8",
+        "blend_name": "Green Town",
+        "origin": "Western Region, Bukova, Tanzania",
+        "variety": "Ethiopian Heirloom",
+        "notes": "wild, smooth, fresh bread, honeydew, cashew",
+        "intensifier": "faint"
+    },
+    {
+        "id": 1001,
+        "uid": "6149e61a-e361-4ac6-85f5-0abf1db0e59a",
+        "blend_name": "Cascara Light",
+        "origin": "Thika, Kenya",
+        "variety": "SL34",
+        "notes": "complex, chewy, lemon verbena, cream, red grape",
+        "intensifier": "dull"
+    },
+    {
+        "id": 8876,
+        "uid": "02aca9d7-35b1-4ca4-9084-1d515dc99ecb",
+        "blend_name": "Green Breaker",
+        "origin": "Puebla, Mexico",
+        "variety": "Kaffa",
+        "notes": "pointed, watery, passion fruit, grassy, cashew",
+        "intensifier": "dull"
+    },
+    {
+        "id": 2996,
+        "uid": "8954e1f1-8b55-4707-848e-86b30ef1f6e6",
+        "blend_name": "Blacktop Extract",
+        "origin": "Granada, Nicaragua",
+        "variety": "S288",
+        "notes": "pointed, syrupy, cherry, cacao nibs, baggy",
+        "intensifier": "tart"
+    },
+    {
+        "id": 401,
+        "uid": "33bbec0e-7498-4a5d-afff-2cc697b4059e",
+        "blend_name": "Chocolate Cake",
+        "origin": "Acatenango, Guatemala",
+        "variety": "S.4",
+        "notes": "balanced, full, bittersweet chocolate, tomato, dates",
+        "intensifier": "dull"
+    },
+    {
+        "id": 8656,
+        "uid": "c65a2095-0492-4c9f-88e8-67ce5b0544fe",
+        "blend_name": "Reg's Cup",
+        "origin": "Volcan, Panama",
+        "variety": "Catuai",
+        "notes": "balanced, silky, quakery, burnt sugar, magnolia",
+        "intensifier": "delicate"
+    },
+    {
+        "id": 5217,
+        "uid": "e0212b99-6589-4564-affc-0f421a3aaeb8",
+        "blend_name": "Winter Star",
+        "origin": "Tapanuli, Sumatra",
+        "variety": "S795",
+        "notes": "wild, silky, mandarin, green pepper, star fruit",
+        "intensifier": "quick"
+    },
+    {
+        "id": 3598,
+        "uid": "52ed0614-b864-4388-8e30-84a2eeaa420a",
+        "blend_name": "Hello Light",
+        "origin": "Atitlan, Guatemala",
+        "variety": "Catuai",
+        "notes": "mild, full, milk chocolate, tangerine, cranberry",
+        "intensifier": "wild"
+    },
+    {
+        "id": 2355,
+        "uid": "b1648365-9588-4555-85ad-9fa9ec6b315d",
+        "blend_name": "Seattle Light",
+        "origin": "Estelí, Nicaragua",
+        "variety": "Geisha",
+        "notes": "soft, silky, black-tea, walnut, cocoa powder",
+        "intensifier": "unbalanced"
+    },
+    {
+        "id": 8416,
+        "uid": "f97d11b4-fbf4-49b0-8928-fee6fe73b161",
+        "blend_name": "Goodbye Enlightenment",
+        "origin": "Kiamba, Kenya",
+        "variety": "Catuai",
+        "notes": "pointed, big, carmel, banana, figs",
+        "intensifier": "deep"
+    },
+    {
+        "id": 3114,
+        "uid": "342df346-9e27-4c98-9ad3-7fcb23bc9cb6",
+        "blend_name": "Jacked Pie",
+        "origin": "Gayo, Sumatra",
+        "variety": "Pacas",
+        "notes": "dull, creamy, clementine, hazelnut, apricot",
+        "intensifier": "balanced"
+    },
+    {
+        "id": 3356,
+        "uid": "7aec8ce2-a513-486e-b910-d42719b65e75",
+        "blend_name": "Jacked Choice",
+        "origin": "Murang'a, Kenya",
+        "variety": "Gimma",
+        "notes": "sharp, coating, cacao nibs, granola, medicinal",
+        "intensifier": "astringent"
+    },
+    {
+        "id": 5811,
+        "uid": "45664490-fb52-4504-a925-9af171049639",
+        "blend_name": "Street Cake",
+        "origin": "Kayanza, Burundi",
+        "variety": "Catimors",
+        "notes": "crisp, big, red grape, bittersweet chocolate, rye",
+        "intensifier": "muted"
+    },
+    {
+        "id": 1842,
+        "uid": "6fae3e55-8c40-4e8e-85c6-6d6bfd406a5b",
+        "blend_name": "Wake-up Blend",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Mundo Novo",
+        "notes": "lingering, tea-like, golden raisin, butter, star fruit",
+        "intensifier": "mild"
+    },
+    {
+        "id": 3639,
+        "uid": "0b11ade0-e360-45b6-8a0e-ef6b2cf37d9a",
+        "blend_name": "Thanksgiving Blend",
+        "origin": "Lintong, Sumatra",
+        "variety": "Pink Bourbon",
+        "notes": "bright, smooth, white pepper, almond, raspberry",
+        "intensifier": "dull"
+    },
+    {
+        "id": 5858,
+        "uid": "a0f4dbcc-7133-4f60-ae9b-5dfdb654bcf1",
+        "blend_name": "Major Java",
+        "origin": "Raimi, Yemen",
+        "variety": "Mundo Novo",
+        "notes": "balanced, creamy, mandarin, hay, white grape",
+        "intensifier": "deep"
+    },
+    {
+        "id": 6347,
+        "uid": "d83513ce-e8b4-4581-81c4-6379d3bf2314",
+        "blend_name": "Kreb-Full-o Coffee",
+        "origin": "Brahmaputra, India",
+        "variety": "S795",
+        "notes": "sharp, creamy, marshmallow, mushroom, ginger",
+        "intensifier": "lingering"
+    },
+    {
+        "id": 993,
+        "uid": "5f75a250-7b5b-471b-aec3-f3bc6dac3dfd",
+        "blend_name": "Blacktop Choice",
+        "origin": "San'ani, Yemen",
+        "variety": "Obata",
+        "notes": "faint, full, lemon verbena, liquorice, kiwi",
+        "intensifier": "bright"
+    },
+    {
+        "id": 1026,
+        "uid": "8a53578d-9760-46d9-bb5b-a388fd6c1d4e",
+        "blend_name": "Summer Extract",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "SL28",
+        "notes": "muted, full, graham cracker, concord grape, grapefruit",
+        "intensifier": "complex"
+    },
+    {
+        "id": 3136,
+        "uid": "c64857b1-76d6-439a-aa21-80320ef3540a",
+        "blend_name": "Joe Symphony",
+        "origin": "Chiriqui, Panama",
+        "variety": "Tafari-Kela",
+        "notes": "muted, smooth, almond, cantaloupe, maple syrup",
+        "intensifier": "deep"
+    },
+    {
+        "id": 5371,
+        "uid": "5cf3eea9-4b5c-4df8-a8b4-d7b7864705fd",
+        "blend_name": "Summer Delight",
+        "origin": "Coorg, India",
+        "variety": "Mundo Novo",
+        "notes": "astringent, full, strawberry, hops, mango",
+        "intensifier": "complex"
+    },
+    {
+        "id": 465,
+        "uid": "1ccd6d36-f6ae-4f69-a6a3-70fdfe806c2c",
+        "blend_name": "Winter ",
+        "origin": "Cundinamarca, Colombia",
+        "variety": "Dega",
+        "notes": "astringent, velvety, quakery, squash, nectarine",
+        "intensifier": "soft"
+    },
+    {
+        "id": 7243,
+        "uid": "54e25375-0ba2-42da-a620-6b18cf8bae10",
+        "blend_name": "Café Pie",
+        "origin": "Cerrado, Brazil",
+        "variety": "Dega",
+        "notes": "vibrant, chewy, carbon, granola, smokey",
+        "intensifier": "tart"
+    },
+    {
+        "id": 8675,
+        "uid": "723e3b58-58bd-4c85-aedf-4d3517cc169f",
+        "blend_name": "Seattle Extract",
+        "origin": "Casanare, Colombia",
+        "variety": "Kona",
+        "notes": "dull, creamy, clove, sundried tomato, hay",
+        "intensifier": "bright"
+    },
+    {
+        "id": 7463,
+        "uid": "2621de51-abf5-4b2a-b08b-a3ede5783b6a",
+        "blend_name": "Goodbye Mug",
+        "origin": "Hirazi, Yemen",
+        "variety": "SL34",
+        "notes": "vibrant, chewy, black-tea, black cherry, brown sugar",
+        "intensifier": "vibrant"
+    },
+    {
+        "id": 5297,
+        "uid": "c683ca00-91cc-48b1-a000-59164a445371",
+        "blend_name": "Split Level",
+        "origin": "Oaxaca, Mexico",
+        "variety": "Colombia",
+        "notes": "bright, coating, squash, lime, graham cracker",
+        "intensifier": "vibrant"
+    },
+    {
+        "id": 1291,
+        "uid": "46344b2c-8a6b-451c-8bd6-1f77d1204977",
+        "blend_name": "Captain's Extract",
+        "origin": "Tapanuli, Sumatra",
+        "variety": "Catuai",
+        "notes": "dry, chewy, barley, red grape, liquorice",
+        "intensifier": "mild"
+    },
+    {
+        "id": 3371,
+        "uid": "ee907258-927f-47ce-b97c-c7f8abab458f",
+        "blend_name": "Seattle Bean",
+        "origin": "Gayo, Sumatra",
+        "variety": "Colombia",
+        "notes": "wild, creamy, granola, tobacco, cream",
+        "intensifier": "vibrant"
+    },
+    {
+        "id": 9817,
+        "uid": "912107c7-aacf-4781-a820-72bc8428e326",
+        "blend_name": "Goodbye Extract",
+        "origin": "Central Valley, Costa Rica",
+        "variety": "Yellow Bourbon",
+        "notes": "rounded, creamy, cream, snow pea, black currant",
+        "intensifier": "muted"
+    },
+    {
+        "id": 4442,
+        "uid": "c2b2bf2e-0293-47f5-bd32-9d0ebe0cc182",
+        "blend_name": "Express Level",
+        "origin": "Northern Region, Kilimanjaro, Tanzania",
+        "variety": "S288",
+        "notes": "mild, juicy, black-tea, carmel, concord grape",
+        "intensifier": "rounded"
+    },
+    {
+        "id": 5282,
+        "uid": "fb5556c0-626f-41c7-be54-e9bb961c3070",
+        "blend_name": "Summer Java",
+        "origin": "Cerrado, Brazil",
+        "variety": "Gimma",
+        "notes": "dry, creamy, cherry, cherry, butter",
+        "intensifier": "muted"
+    },
+    {
+        "id": 2446,
+        "uid": "ff2d6985-038c-4367-926f-b8b0f36e1222",
+        "blend_name": "Summer Town",
+        "origin": "Kayanza, Burundi",
+        "variety": "SL28",
+        "notes": "lingering, full, mandarin, rye, nectarine",
+        "intensifier": "astringent"
+    },
+    {
+        "id": 3000,
+        "uid": "c6dbb9d9-15de-40b1-abb9-4bb25e30599e",
+        "blend_name": "Street Cup",
+        "origin": "Northern Region, Oldeani, Tanzania",
+        "variety": "Mundo Novo",
+        "notes": "dry, silky, lemongrass, lime, strawberry",
+        "intensifier": "balanced"
+    },
+    {
+        "id": 6905,
+        "uid": "4314bee5-43d4-4d34-885b-c401365e8365",
+        "blend_name": "Major Solstice",
+        "origin": "Hirazi, Yemen",
+        "variety": "Kona",
+        "notes": "dirty, silky, cacao nibs, dill, milk chocolate",
+        "intensifier": "structured"
+    }
+]
