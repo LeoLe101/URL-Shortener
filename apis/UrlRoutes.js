@@ -8,23 +8,6 @@ const UrlEncoder = require('../services/UrlEncoder');
 
 const Url = mongoose.model('UrlEntity');
 
-Routes.use((req, res, next) => {
-    console.log('--- API Logger ---');
-    console.log('- Request Url: ', req.url);
-    console.log('- Request Type: ', req.method);
-    console.log('- Date: ', Date.now());
-
-    // Handle CORS
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    res.header('Access-Control-Allow-Headers', 'Content-type,Accept,x-access-token,X-Key');
-    if (req.method == 'OPTIONS') {
-        res.status(200).end();
-    } else {
-        next();
-    }
-});
-
 // Get Request to get the original Url from hashed URL code
 Routes.get('/url/:code', async (req, res) => {
     console.log('--- URL { GET } ---');
@@ -50,11 +33,10 @@ Routes.post('/url', async (req, res) => {
         console.log('- Body not found: ', req.body);
         console.log('- Base URL valid: ', !validUrl.isUri(Constants.BASE_URL));
 
-        res.status(401).json({
+         res.status(401).json({
             message: 'Server Error! Please Try Again.',
             success: false
         });
-        return;
     }
 
     const originalUrl = req.body.originalUrl;
@@ -104,14 +86,6 @@ Routes.post('/url', async (req, res) => {
         });
     }
 
-});
-
-// '/api/not-found' - Get 404 not found response
-Routes.get('/not-found', async (req, res) => {
-    res.status(404).json({
-        message: 'Not Found! We cannot find what you are looking for ¯\_(ツ)_/¯',
-        success: false
-    });
 });
 
 module.exports = Routes;
