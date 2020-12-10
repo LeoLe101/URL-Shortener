@@ -1,7 +1,6 @@
 'use strict';
 
 const SearchRoutes = require('express').Router();
-const Constants = require('../utils/Constants');
 const StringUtil = require('../utils/StringUtil');
 const MockDB = require('../Mock/data.json'); // Get Data from JSON instead of DB
 
@@ -9,7 +8,6 @@ const MockDB = require('../Mock/data.json'); // Get Data from JSON instead of DB
 // The reason for this is because of unknown data type.
 // Assuming the data.json is the data coming back from a database
 SearchRoutes.get('/data', async (req, res) => {
-    console.log('--- DATA { GET } ---');
     try {
         const len = MockDB.length;
         const page = parseInt(req.query.page) * 10;
@@ -41,7 +39,6 @@ SearchRoutes.get('/data', async (req, res) => {
 
 // Post Request to generate URL Code
 SearchRoutes.get('/search', async (req, res) => {
-    console.log('--- SEARCH { GET } ---');
     if (!req.query) {
         res.status(401).json({
             message: 'Server Error! Please Try Again.',

@@ -10,8 +10,6 @@ const Url = mongoose.model('UrlEntity');
 
 // Get Request to get the original Url from hashed URL code
 Routes.get('/url/:code', async (req, res) => {
-    console.log('--- URL { GET } ---');
-
     // Get the original url from hashed code
     const urlCode = req.params.code;
     const foundHashedURL = await Url.findOne({ codeURL: urlCode });
@@ -26,13 +24,7 @@ Routes.get('/url/:code', async (req, res) => {
 
 // Post Request to generate URL Code
 Routes.post('/url', async (req, res) => {
-    console.log('--- URL { POST } ---');
     if (!req.body.originalUrl || !validUrl.isUri(Constants.BASE_URL)) {
-
-        console.log('- POST Url Error');
-        console.log('- Body not found: ', req.body);
-        console.log('- Base URL valid: ', !validUrl.isUri(Constants.BASE_URL));
-
          res.status(401).json({
             message: 'Server Error! Please Try Again.',
             success: false
@@ -43,11 +35,9 @@ Routes.post('/url', async (req, res) => {
     const urlCode = UrlEncoder();
 
     if (validUrl.isUri(originalUrl)) {
-        console.log('Valid Original URL');
 
         // find if this original url is hashed in DB or not
         let hashedURL = await Url.findOne({ originalURL: originalUrl });
-        console.log('Hashed URL: ', hashedURL);
 
         // Original url hashed in DB already
         if (hashedURL) {
