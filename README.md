@@ -1,33 +1,34 @@
-Question 2:
+# NodeJS Server API
 
-# Random Data API Generator (simulate 1 mil requests)
+### __Question 1__
+- Will be used as the client that will consume this API
+
+### __Question 2__
+
+##### Random Data API Generator (simulate 1 mil requests)
 - https://random-data-api.com/documentation
 
 
-Question 3:
+### __Question 3__
 
-# APIs
-- GET  /
-- GET  /api/url
-- POST /api/url
-- GET  /api/not-found
+##### APIs
+| METHOD| ROUTES         |          API               |
+|-------|----------------|:--------------------------:|
+| GET   | /              | Get Home Page              |
+| GET   | /api/url/:code | Get Shortened URL Redirect |
+| POST  | /api/url       | Shorten the original URL   |
+| GET   | /api/not-found | 404 Not Found Page         |
 
+##### TechStack Used: NanoID, Express, NodeJS, Mongoose, MongoDB
 
-
-
-
-
-#Reference Articles:
-
-Connecting Express, NodeJS, and Mongoose
+##### Reference Articles:
 - https://mongoosejs.com/docs/
 - https://cloudnweb.dev/2019/04/mongoose-connection-in-express-js/
+- https://expressjs.com/en/guide/routing.html
 
-// https://codeburst.io/creating-custom-url-shortener-with-nodejs-de10bbbb89c7
-// https://expressjs.com/en/starter/generator.html
-// https://cloud.mongodb.com/v2/5fd05ab9962dfe326838326f#clusters
-// https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
-
-NPM:
+##### NPM Packages Used:
 - https://www.npmjs.com/package/nanoid
-
+- https://www.npmjs.com/package/mongoose
+- https://www.npmjs.com/package/nodemon
+- https://www.npmjs.com/package/express
+- https://www.npmjs.com/package/valid-url

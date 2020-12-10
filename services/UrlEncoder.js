@@ -1,7 +1,8 @@
-const IdGenerator = require('nanoid');
+const { customAlphabet } = require('nanoid');
 
 const GenerateUrlCode = () => {
-    return IdGenerator.nanoid();
+    const nanoid = customAlphabet('1234567890abcdefQWERASDFZXCVYYUIOHJKLBNM!@$%#&', 5)
+    return nanoid();
 }
 
 module.exports = GenerateUrlCode; 

@@ -1,6 +1,6 @@
-const mongoose = require('mongoose');
-
 'use strict';
+
+const mongoose = require('mongoose');
 
 /**
  * Creating new Schema in MongoDB through MongooseJS

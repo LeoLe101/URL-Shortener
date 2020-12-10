@@ -1,9 +1,10 @@
-
-const MONGOOSE_URI = 'mongodb://localhost';
-const NOT_FOUND = 'http://localhost:3000/api/not-found';
+'use strict';
 
 const PORT = process.env.PORT || 3000;
-
+const MONGOOSE_URI = 'mongodb://localhost';
+const BASE_URL = `http://localhost:${PORT}`;
+const NOT_FOUND = `${BASE_URL}/api/not-found`;
+const SHORTEN_URL = `${BASE_URL}/api/url`;
 const MONGOOSE_OPTIONS = {
     useNewUrlParser: true,
     useUnifiedTopology: true
@@ -11,7 +12,9 @@ const MONGOOSE_OPTIONS = {
 
 module.exports = {
     MONGOOSE_URI,
+    BASE_URL,
     NOT_FOUND,
+    SHORTEN_URL,
     PORT,
     MONGOOSE_OPTIONS
 }
